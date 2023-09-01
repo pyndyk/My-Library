@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(189, 241, 241);
+}
+
+.catalog {
+    color: blue;
+    margin: 50px 0 30px 50px;
+}
+
+.description {
+    display: block;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.description input {
+    margin-top: 10px;
+    width: 100px;
+}
+
+button {
+    height: 30px;
+    margin-top: 30px;
+    border: none;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color: rgb(190, 39, 39);
+}

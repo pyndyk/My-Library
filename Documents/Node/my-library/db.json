@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name_book": "Курс вищої математики",
+      "autor": "В.Н.Боровик В.П.Яковець",
+      "year": "2019",
+      "page_book": "464",
+      "image": "https://static.yakaboo.ua/media/cloudflare/product/webp/600x840/i/m/img908_1_62.jpg"
+    },
+    {
+      "id": "2",
+      "name_book": "Фізика",
+      "autor": "Ю.І.Посудін",
+      "year": "2020",
+      "page_book": "472",
+      "image": "https://knushop.com.ua/image/cache/catalog/lira20230617/images/22226-500x610.jpg"
+    },
+    {
+      "id": "3",
+      "name_book": "Велика картина",
+      "autor": "Шон Керролл",
+      "year": "2019",
+      "page_book": "281",
+      "image": "https://static.yakaboo.ua/media/cloudflare/product/webp/600x840/f/b/fb722036y_big_picture_ob_3d.jpg"
+    }
+  ]
+}

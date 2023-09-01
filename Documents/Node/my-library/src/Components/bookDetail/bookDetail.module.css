@@ -1,0 +1,25 @@
+.item {
+    margin: 30px 50px 30px 50px;
+
+}
+
+.books img {
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 300px;
+    top: 30px;
+    border-radius: 50px;
+    border: 5px solid rgb(77, 14, 158);
+
+}
+
+.info {
+    position: relative;
+    top: 150px;
+    left: 50px;
+    margin-bottom: 10px;
+    text-align: top;
+    color: rgb(18, 18, 210);
+    font-size: 50px;
+}
